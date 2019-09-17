@@ -33,12 +33,3 @@ pip3 install awscli --upgrade --user
 ###Install Ansible playbook using pip
 pip3 install ansible
 
-
-
-apt-get install software-properties-common
-apt-add-repository ppa:ansible/ansible
-apt-get update
-apt-get install ansible
-
-
-
