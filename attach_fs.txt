@@ -1,6 +1,6 @@
 #!/bin/bash
 # script: mount_fs.sh
-# author: www.globalnewtech.com
+# author: Kossivi Edi
 # desc: format, backup and mount linux fs 
 # last modified: 09/16/2019
 
